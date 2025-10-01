@@ -1,0 +1,11 @@
+# requirements.txt
+# Librerías para la API web
+Flask==3.1.2
+
+# Librerías para Machine Learning
+scikit-learn==1.7.2
+joblib==1.5.2
+numpy==2.3.3
+
+# Librería para probar la API
+requests==2.32.5
